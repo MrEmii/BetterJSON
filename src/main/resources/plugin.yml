@@ -1,0 +1,6 @@
+name: BetterJSON
+version: ${project.version}
+main: dev.emii.betterjson.Main
+api-version: 1.15
+authors: [MrEmii]
+description: Usefully plugin for uses to JSON
